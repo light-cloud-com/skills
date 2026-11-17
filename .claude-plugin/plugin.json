@@ -1,0 +1,19 @@
+{
+  "name": "light-cloud",
+  "displayName": "Light Cloud",
+  "version": "1.0.0",
+  "description": "Deploy websites, web apps and APIs to Light Cloud and run them from a conversation: new sites go into a repository in your GitHub, GitLab or Bitbucket account and deploy on every push. Also databases, environment variables, logs, rollbacks and custom domains.",
+  "author": {
+    "name": "Light Cloud",
+    "url": "https://light-cloud.com"
+  },
+  "homepage": "https://docs.light-cloud.com/deploy-with-ai/mcp-server",
+  "repository": "https://github.com/light-cloud-com/skills",
+  "license": "MIT",
+  "keywords": ["deploy", "hosting", "web apps", "databases", "custom domains"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://docs.light-cloud.com/deploy-with-ai/mcp-server",
+  "supportUrl": "https://light-cloud.com/contact?subject=support",
+  "privacyPolicyUrl": "https://help.light-cloud.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://help.light-cloud.com/legal/terms-of-service"
+}

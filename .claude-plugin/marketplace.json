@@ -1,0 +1,14 @@
+{
+  "name": "light-cloud",
+  "description": "Light Cloud's plugin for Claude Code",
+  "owner": {
+    "name": "Light Cloud",
+    "url": "https://light-cloud.com"
+  },
+  "plugins": [
+    {
+      "name": "light-cloud",
+      "source": "./"
+    }
+  ]
+}

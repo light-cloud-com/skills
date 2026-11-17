@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "light-cloud": {
+      "type": "http",
+      "url": "https://mcp.light-cloud.com/mcp"
+    }
+  }
+}
